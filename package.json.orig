@@ -54,20 +54,35 @@
     "test": "grunt test"
   },
   "devDependencies": {
+<<<<<<< Updated upstream
+    "grunt": "^1.0.1",
+    "grunt-contrib-clean": "^1.1.0",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-nodeunit": "^1.0.0",
+=======
     "grunt": "~1.0.1",
     "grunt-contrib-clean": "~1.1.0",
     "grunt-contrib-jshint": "~1.1.0",
     "grunt-contrib-nodeunit": "~1.0.0",
+>>>>>>> Stashed changes
     "load-grunt-tasks": "^3.1.0",
     "time-grunt": "^1.1.0"
   },
   "peerDependencies": {
+<<<<<<< Updated upstream
+    "grunt": ">=0.4.0"
+=======
     "grunt": "~1.0.1"
+>>>>>>> Stashed changes
   },
   "dependencies": {
     "chalk": "~2.3.2",
     "combine-mq": "latest",
+<<<<<<< Updated upstream
+    "pretty-bytes": "^4.0.2"
+=======
     "pretty-bytes": "~4.0.2"
+>>>>>>> Stashed changes
   },
   "keywords": [
     "gruntplugin"
